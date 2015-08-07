@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Jun 25 12:28:31 GMT+08:00 2015
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=NettyExample_fat.jar
+manifest.mergeall=true
+manifest.mainclass=io.netty.example.selfTry.TelnetTest
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
